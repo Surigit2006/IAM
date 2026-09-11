@@ -1,7 +1,7 @@
 
 # EX - 6 Implementation Of Identity Management (Amazon Iam) For Your Team.
-# NAME: RANJITH J
-# REG NO: 212224230221
+# NAME: M.K.Suriya prakash
+# REG NO: 212224110053
 ## Aim
 
 To implement Identity and Access Management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
